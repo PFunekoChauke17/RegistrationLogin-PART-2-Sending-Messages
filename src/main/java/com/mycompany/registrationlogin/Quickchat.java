@@ -76,7 +76,7 @@ public class Quickchat {
     }
 
     // === PART 1 INTEGRATION POINT ===
-    // Replace this body with your Part 1 Login class, e.g.
+
     //   Login user = new Login(username, password, firstName, lastName);
     //   return user.loginUser(username, password);
     private static boolean login() {
